@@ -5,9 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykumar308&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar308" /> </p>
 
+
 - 👨‍💻 All of my projects are available at [https://vijaykumar308.github.io/portfolio/](https://vijaykumar308.github.io/portfolio/)
 
-- 💬 Ask me about **PHP, SQL, Javascript**
+-  I'm a LAMP Stack Developer, Always keen to learn and explore new technologies.
+
+- 💬 Worked with  **PHP, SQL, Javascript**
 
 - 📫 How to reach me **308vijaykumar@gmail.com**
 
