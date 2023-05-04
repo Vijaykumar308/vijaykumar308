@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vijay kumar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
 
