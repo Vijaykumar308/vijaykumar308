@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vijay kumar</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
 
@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://vijaykumar308.github.io/portfolio/](https://vijaykumar308.github.io/portfolio/)
 
--  I'm a LAMP Stack Developer, Always keen to learn and explore new technologies.
+-  I'm a LAMP & MERN Stack Developer, Always keen to learn and explore new technologies.
 
-- 💬 Worked with  **PHP, SQL, Javascript**
+- 💬 Worked with  **PHP, SQL, Javascript, React, Node & Express, MongoDB, Postgress**
 
-- 📫 How to reach me **308vijaykumar@gmail.com**
+- 📫 How to reach me **jwvijaykumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
