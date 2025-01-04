@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vijay kumar</h1>
+<h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
@@ -10,7 +10,7 @@
 
 -  I'm a LAMP & MERN Stack Developer, Always keen to learn and explore new technologies.
 
-- 💬 Worked with  **PHP, SQL, Javascript, React, Node & Express, MongoDB, Postgress**
+- 💬 Worked with  **Javascript, React, NodeJs & Express, MongoDB, Postgress, PHP, MySQL,**
 
 - 📫 How to reach me **jwvijaykumar@gmail.com**
 
