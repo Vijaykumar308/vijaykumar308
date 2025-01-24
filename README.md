@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
 
@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://vijaykumar308.github.io/portfolio/](https://vijaykumar308.github.io/portfolio/)
 
--  I'm a LAMP & MERN Stack Developer, Always keen to learn and explore new technologies.
+-  I'm a Full Stack Developer (LAMP & MERN), Always keen to learn and explore new technologies.
 
-- 💬 Worked with  **Javascript, React, NodeJs & Express, MongoDB, Postgress, PHP, MySQL,**
+- 💬 Worked with  **Javascript, HTML, CSS, TailwindCSS, React, NodeJs & Express, MongoDB, Postgress, PHP, MySQL,**
 
 - 📫 How to reach me **jwvijaykumar@gmail.com**
 
