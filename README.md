@@ -10,7 +10,7 @@
 
 -  I'm a Full Stack Developer(PHP & MERN), Always keen to learn and explore new technologies.
 
-- 💬 Worked with  **Javascript, HTML, CSS, TailwindCSS, React, NodeJs & Express, MongoDB, Postgress, PHP, MySQL,**
+- 💬 Worked with  **Javascript, HTML, CSS, TailwindCSS, React, NodeJs & Express, MongoDB, Postgress, PHP, MySQL**
 
 - 📫 How to reach me **jwvijaykumar@gmail.com**
 
