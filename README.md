@@ -8,7 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://vijaykumar308.github.io/portfolio/](https://vijaykumar308.github.io/portfolio/)
 
--  I'm a Full Stack Developer(PHP & MERN), Always keen to learn and explore new technologies
+-  I'm a Full Stack Developer(PHP & MERN), Always keen to learn and explore new technologies.
+  
 
 - 💬 Worked with  **Javascript, HTML, CSS, TailwindCSS, React, NodeJs & Express, MongoDB, Postgress, PHP, MySQL**
 
